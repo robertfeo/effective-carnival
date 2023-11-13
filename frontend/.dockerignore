@@ -1,0 +1,27 @@
+# Node.js specific
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output
+/dist
+
+# Editor directories and files
+.idea
+*.swp
+*.swo
+*.sublime-workspace
+
+# Git and Docker files
+.git
+.gitignore
+.dockerignore
+Dockerfile
+
+# Miscellaneous files
+README.md
+LICENSE
+*.md
+
+# Environment files
+.env

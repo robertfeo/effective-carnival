@@ -1,0 +1,16 @@
+# Ignore standard Rust and editor artifacts
+/target
+**/*.rs.bk
+Cargo.lock
+
+# Ignore other common files
+.git
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+LICENSE
+*.md
+
+# Ignore specific config files
+.env
